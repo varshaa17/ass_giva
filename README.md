@@ -27,7 +27,7 @@ A simple product management application built with React, Node.js, and PostgreSQ
 - *PostgreSQL* installed and running.
 - A PostgreSQL database created for this application.
 
-### Step 1: Clone the Repository
+###Clone the Repository
 
 Open your terminal and run the following commands:
 
